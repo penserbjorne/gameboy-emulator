@@ -1,0 +1,18 @@
+{
+  "version": "0.1.0",
+  "name": "Gameboy Emulator",
+  "description": "Gameboy Emulator",
+  "launch_path": "/index.html",
+   "fullscreen": "true",
+  "icons": {
+    "128": "/images/128.png"
+  },
+  "developer": {
+    "name": "MexMod",
+    "url": "http://mexmod.com"
+  },
+  "type": "web",
+  "installs_allowed_from": ["*"],
+  "default_locale": "en",
+  "orientation": "portrait"
+}
